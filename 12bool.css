@@ -4,12 +4,12 @@
   padding: 0;
 }
 
-.container {
+.row {
   max-width: 1170px;
   margin: 0 auto;
 }
 
-.container:after {
+.row:after {
   content: '';
   display: table;
   clear: both;
