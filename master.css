@@ -1,0 +1,34 @@
+.container {
+  font-size: 12px;
+  padding: 10px;
+  text-align: center;
+}
+
+.container [class*="col-"] {
+  margin-top: 20px;
+}
+
+#lezioni.container {
+  background-color: #F2F2CD;
+}
+
+#lezioni.container img {
+  display: block;
+  margin: 0 auto;
+  height: 70px;
+}
+
+#why.container {
+  background-color: #F2F2CD;
+}
+
+#why.container img {
+  height: 70px;
+  padding: 15px;
+  background-color: #428bca;
+  border-radius: 50%;
+}
+
+  #why.container.grey {
+    background-color: #F2F2CD;
+  }
